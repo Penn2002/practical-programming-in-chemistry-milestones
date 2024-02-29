@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/Penn2002/Penn2002                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/Penn2002/ppchem/commit/5fa8500                |
 | 1    | Create a New Branch                         | https://github.com/Penn2002/ppchem/tree/new-branch-name            |
-| 1    | Create a conda environment                  | https://github.com/Penn2002/ppchem/blob/main/54cb100      |
+| 1    | Create a conda environment                  | https://github.com/Penn2002/ppchem/blob/main/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/Penn2002/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
